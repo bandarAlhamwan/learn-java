@@ -24,7 +24,6 @@ public class WorkWithDateAndTime {
 		final String FROM = "yyyy-MM-dd";
 		final String TO = "dd.MM.yyyy";
 		final String INPUT = "2022-01-01";
-		
 		System.out.println(convertDate(INPUT, FROM, TO));
 	}
 	
